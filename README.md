@@ -1,1 +1,1 @@
-# Tenant_Managenment_System
+# Tenant-Management-System
